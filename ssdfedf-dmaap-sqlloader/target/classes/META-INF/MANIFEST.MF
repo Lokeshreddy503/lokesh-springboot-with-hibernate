@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ssdfedf-dmaap-sqlloader
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lokesh
+Implementation-Vendor-Id: com.att.ssdf.dmaap
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/ssdfedf-dmaa
+ p-sqlloader/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
